@@ -41,6 +41,13 @@
       "descricao": "",
       "preco": 7.5,
       "categoria_id": 2
+    },
+    {
+      "id": 7,
+      "nome": "Podrão Top",
+      "descricao": "Tudo que tem direito",
+      "preco": 19.5,
+      "categoria_id": 1
     }
   ],
   "categorias": [
